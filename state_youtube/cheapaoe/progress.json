@@ -1,0 +1,15 @@
+{
+  "status": "finished_with_errors",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/bxXbJqgr0ws.%(ext)s', 'https://www.youtube.com/watch?v=bxXbJqgr0ws'])",
+  "destination": "cheapaoe",
+  "channel_url": "https://www.youtube.com/@cheapaoe",
+  "include_members": false,
+  "queue_total": 1660,
+  "queue_index": 1,
+  "updated_at": 1794143624,
+  "updated_at_readable": "2026-11-08 13:13:44",
+  "current_video_id": "bxXbJqgr0ws",
+  "current_title": "平心而論【松山機場該不該搬】藍綠都有共識、吵了 30 年了 為何搬不動？",
+  "current_url": "https://www.youtube.com/watch?v=bxXbJqgr0ws",
+  "current_tab": "videos"
+}
