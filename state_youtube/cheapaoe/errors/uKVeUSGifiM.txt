@@ -1,0 +1,6 @@
+video_id: uKVeUSGifiM
+title: 城池超難打 明明可以繞《古代軍隊為什麼不繞過去？》 【世紀帝國】解說
+url: https://www.youtube.com/watch?v=uKVeUSGifiM
+tab: videos
+time: 2026-11-08 20:47:30
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/uKVeUSGifiM.%(ext)s', 'https://www.youtube.com/watch?v=uKVeUSGifiM'])
