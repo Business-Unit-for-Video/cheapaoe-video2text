@@ -1,15 +1,15 @@
 {
   "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/QRO7z6NoUvk.%(ext)s', 'https://www.youtube.com/watch?v=QRO7z6NoUvk'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/xS4IjoMYxnA.%(ext)s', 'https://www.youtube.com/watch?v=xS4IjoMYxnA'])",
   "destination": "cheapaoe",
   "channel_url": "https://www.youtube.com/@cheapaoe",
   "include_members": false,
   "queue_total": 1660,
-  "queue_index": 3,
-  "updated_at": 1794208318,
-  "updated_at_readable": "2026-11-09 07:11:58",
-  "current_video_id": "QRO7z6NoUvk",
-  "current_title": "殺掉縣太爺就能冒名頂替？ 古人如何證明「我是我」？  《讓子彈飛》的張麻子有可能成功嗎？",
-  "current_url": "https://www.youtube.com/watch?v=QRO7z6NoUvk",
+  "queue_index": 4,
+  "updated_at": 1794251369,
+  "updated_at_readable": "2026-11-09 19:09:29",
+  "current_video_id": "xS4IjoMYxnA",
+  "current_title": "密度世界第一【為何台灣測速一堆 交通還這麼亂？】  德國無速限卻超安全？",
+  "current_url": "https://www.youtube.com/watch?v=xS4IjoMYxnA",
   "current_tab": "videos"
 }
