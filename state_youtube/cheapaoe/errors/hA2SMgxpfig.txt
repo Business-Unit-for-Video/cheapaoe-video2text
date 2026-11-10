@@ -1,0 +1,6 @@
+video_id: hA2SMgxpfig
+title: 【迪士尼被台灣趕跑的真相】官商勾結？政府短視近利？圖利本土財團？ 一個流傳30年的都市傳說
+url: https://www.youtube.com/watch?v=hA2SMgxpfig
+tab: videos
+time: 2026-11-10 21:58:54
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/hA2SMgxpfig.%(ext)s', 'https://www.youtube.com/watch?v=hA2SMgxpfig'])
