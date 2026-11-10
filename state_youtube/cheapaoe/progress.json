@@ -1,15 +1,15 @@
 {
   "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/xS4IjoMYxnA.%(ext)s', 'https://www.youtube.com/watch?v=xS4IjoMYxnA'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/OSINWyyU8dc.%(ext)s', 'https://www.youtube.com/watch?v=OSINWyyU8dc'])",
   "destination": "cheapaoe",
   "channel_url": "https://www.youtube.com/@cheapaoe",
   "include_members": false,
   "queue_total": 1660,
-  "queue_index": 4,
-  "updated_at": 1794251369,
-  "updated_at_readable": "2026-11-09 19:09:29",
-  "current_video_id": "xS4IjoMYxnA",
-  "current_title": "密度世界第一【為何台灣測速一堆 交通還這麼亂？】  德國無速限卻超安全？",
-  "current_url": "https://www.youtube.com/watch?v=xS4IjoMYxnA",
+  "queue_index": 5,
+  "updated_at": 1794296912,
+  "updated_at_readable": "2026-11-10 07:48:32",
+  "current_video_id": "OSINWyyU8dc",
+  "current_title": "毛澤東這麼強 【為何中國沒變毛家王朝】 老蔣傳兒子、北韓傳三代 為啥中共不世襲",
+  "current_url": "https://www.youtube.com/watch?v=OSINWyyU8dc",
   "current_tab": "videos"
 }

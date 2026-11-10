@@ -1,0 +1,6 @@
+video_id: OSINWyyU8dc
+title: 毛澤東這麼強 【為何中國沒變毛家王朝】 老蔣傳兒子、北韓傳三代 為啥中共不世襲
+url: https://www.youtube.com/watch?v=OSINWyyU8dc
+tab: videos
+time: 2026-11-10 07:48:32
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/OSINWyyU8dc.%(ext)s', 'https://www.youtube.com/watch?v=OSINWyyU8dc'])
