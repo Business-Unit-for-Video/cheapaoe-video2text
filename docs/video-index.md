@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@cheapaoe)。
 
-共 1660 条：已转写 0，待转写 1655，失败待处理 5，文件不完整 0。
+共 1660 条：已转写 0，待转写 1654，失败待处理 6，文件不完整 0。
 
 标题和播放列表分类取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -13,7 +13,7 @@
 | [殺掉縣太爺就能冒名頂替？ 古人如何證明「我是我」？  《讓子彈飛》的張麻子有可能成功嗎？](https://www.youtube.com/watch?v=QRO7z6NoUvk) | 未分类 | 16:31 | 失败待处理 | — | — |
 | [密度世界第一【為何台灣測速一堆 交通還這麼亂？】  德國無速限卻超安全？](https://www.youtube.com/watch?v=xS4IjoMYxnA) | 未分类 | 13:39 | 失败待处理 | — | — |
 | [毛澤東這麼強 【為何中國沒變毛家王朝】 老蔣傳兒子、北韓傳三代 為啥中共不世襲](https://www.youtube.com/watch?v=OSINWyyU8dc) | 未分类 | 17:23 | 失败待处理 | — | — |
-| [曾想靠20個小孩踢進世界盃 【台灣足球為什麼這麼弱？】 全世界最詭異的足球弱國](https://www.youtube.com/watch?v=Qf-fwHUWV-M) | 未分类 | 17:30 | 待转写 | — | — |
+| [曾想靠20個小孩踢進世界盃 【台灣足球為什麼這麼弱？】 全世界最詭異的足球弱國](https://www.youtube.com/watch?v=Qf-fwHUWV-M) | 未分类 | 17:30 | 失败待处理 | — | — |
 | [【迪士尼被台灣趕跑的真相】官商勾結？政府短視近利？圖利本土財團？ 一個流傳30年的都市傳說](https://www.youtube.com/watch?v=hA2SMgxpfig) | 未分类 | 18:56 | 待转写 | — | — |
 | [課本不敢說的「現代化之父」《歷史上真實的劉銘傳》被美化百年的英雄](https://www.youtube.com/watch?v=8h5P3cpRWzI) | 未分类 | 23:00 | 待转写 | — | — |
 | [爽又有錢拿！全世界最爽的工作 【AV男優為何狂缺人】 AV男優缺人的真相](https://www.youtube.com/watch?v=NX_UdfINqHY) | 未分类 | 13:31 | 待转写 | — | — |
