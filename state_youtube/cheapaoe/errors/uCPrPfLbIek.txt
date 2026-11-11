@@ -1,0 +1,6 @@
+video_id: uCPrPfLbIek
+title: 曾被三重、新莊屌打【板橋如何史詩級逆襲】 新北一哥 百年爭霸戰 為什麼板橋贏了
+url: https://www.youtube.com/watch?v=uCPrPfLbIek
+tab: videos
+time: 2026-11-11 23:04:07
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/uCPrPfLbIek.%(ext)s', 'https://www.youtube.com/watch?v=uCPrPfLbIek'])

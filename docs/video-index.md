@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@cheapaoe)。
 
-共 1660 条：已转写 0，待转写 1651，失败待处理 9，文件不完整 0。
+共 1660 条：已转写 0，待转写 1650，失败待处理 10，文件不完整 0。
 
 标题和播放列表分类取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -17,7 +17,7 @@
 | [【迪士尼被台灣趕跑的真相】官商勾結？政府短視近利？圖利本土財團？ 一個流傳30年的都市傳說](https://www.youtube.com/watch?v=hA2SMgxpfig) | 未分类 | 18:56 | 失败待处理 | — | — |
 | [課本不敢說的「現代化之父」《歷史上真實的劉銘傳》被美化百年的英雄](https://www.youtube.com/watch?v=8h5P3cpRWzI) | 未分类 | 23:00 | 失败待处理 | — | — |
 | [爽又有錢拿！全世界最爽的工作 【AV男優為何狂缺人】 AV男優缺人的真相](https://www.youtube.com/watch?v=NX_UdfINqHY) | 未分类 | 13:31 | 失败待处理 | — | — |
-| [曾被三重、新莊屌打【板橋如何史詩級逆襲】 新北一哥 百年爭霸戰 為什麼板橋贏了](https://www.youtube.com/watch?v=uCPrPfLbIek) | 未分类 | 12:23 | 待转写 | — | — |
+| [曾被三重、新莊屌打【板橋如何史詩級逆襲】 新北一哥 百年爭霸戰 為什麼板橋贏了](https://www.youtube.com/watch?v=uCPrPfLbIek) | 未分类 | 12:23 | 失败待处理 | — | — |
 | [三次被打倒、三次滿血復活 【西門町為何紅了100年？】西門町百年發展史](https://www.youtube.com/watch?v=JJ33_tiDX6A) | 未分类 | 14:32 | 待转写 | — | — |
 | [人多又壯 怎麼反而輸了？【黑人怎麼會變奴隸？】教科書不敢說的黑奴真相](https://www.youtube.com/watch?v=rdnokX-Sk9E) | 未分类 | 13:31 | 待转写 | — | — |
 | [性交易合法【為什麼台灣政府不敢設性專區】又不敢直接禁止？ \| 假掰政治? 偽善? 女權?](https://www.youtube.com/watch?v=p0xfuEAo4ME) | 未分类 | 11:53 | 待转写 | — | — |
