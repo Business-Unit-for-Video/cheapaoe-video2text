@@ -1,0 +1,6 @@
+video_id: 8h5P3cpRWzI
+title: 課本不敢說的「現代化之父」《歷史上真實的劉銘傳》被美化百年的英雄
+url: https://www.youtube.com/watch?v=8h5P3cpRWzI
+tab: videos
+time: 2026-11-11 07:08:49
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/8h5P3cpRWzI.%(ext)s', 'https://www.youtube.com/watch?v=8h5P3cpRWzI'])
