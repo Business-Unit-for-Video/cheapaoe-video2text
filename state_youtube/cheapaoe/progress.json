@@ -1,15 +1,15 @@
 {
   "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/uCPrPfLbIek.%(ext)s', 'https://www.youtube.com/watch?v=uCPrPfLbIek'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/JJ33_tiDX6A.%(ext)s', 'https://www.youtube.com/watch?v=JJ33_tiDX6A'])",
   "destination": "cheapaoe",
   "channel_url": "https://www.youtube.com/@cheapaoe",
   "include_members": false,
   "queue_total": 1660,
-  "queue_index": 10,
-  "updated_at": 1794438247,
-  "updated_at_readable": "2026-11-11 23:04:07",
-  "current_video_id": "uCPrPfLbIek",
-  "current_title": "曾被三重、新莊屌打【板橋如何史詩級逆襲】 新北一哥 百年爭霸戰 為什麼板橋贏了",
-  "current_url": "https://www.youtube.com/watch?v=uCPrPfLbIek",
+  "queue_index": 11,
+  "updated_at": 1794469482,
+  "updated_at_readable": "2026-11-12 07:44:42",
+  "current_video_id": "JJ33_tiDX6A",
+  "current_title": "三次被打倒、三次滿血復活 【西門町為何紅了100年？】西門町百年發展史",
+  "current_url": "https://www.youtube.com/watch?v=JJ33_tiDX6A",
   "current_tab": "videos"
 }
