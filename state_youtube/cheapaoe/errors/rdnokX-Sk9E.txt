@@ -1,0 +1,6 @@
+video_id: rdnokX-Sk9E
+title: 人多又壯 怎麼反而輸了？【黑人怎麼會變奴隸？】教科書不敢說的黑奴真相
+url: https://www.youtube.com/watch?v=rdnokX-Sk9E
+tab: videos
+time: 2026-11-12 17:06:18
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/rdnokX-Sk9E.%(ext)s', 'https://www.youtube.com/watch?v=rdnokX-Sk9E'])
