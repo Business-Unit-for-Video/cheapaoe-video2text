@@ -1,0 +1,6 @@
+video_id: p0xfuEAo4ME
+title: 性交易合法【為什麼台灣政府不敢設性專區】又不敢直接禁止？ | 假掰政治? 偽善? 女權?
+url: https://www.youtube.com/watch?v=p0xfuEAo4ME
+tab: videos
+time: 2026-11-13 07:18:48
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/p0xfuEAo4ME.%(ext)s', 'https://www.youtube.com/watch?v=p0xfuEAo4ME'])
