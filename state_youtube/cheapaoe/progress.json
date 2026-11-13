@@ -1,15 +1,15 @@
 {
   "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/xDuOe4Bj2t8.%(ext)s', 'https://www.youtube.com/watch?v=xDuOe4Bj2t8'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/EIai6_i8O20.%(ext)s', 'https://www.youtube.com/watch?v=EIai6_i8O20'])",
   "destination": "cheapaoe",
   "channel_url": "https://www.youtube.com/@cheapaoe",
   "include_members": false,
   "queue_total": 1660,
-  "queue_index": 14,
-  "updated_at": 1794588274,
-  "updated_at_readable": "2026-11-13 16:44:34",
-  "current_video_id": "xDuOe4Bj2t8",
-  "current_title": "三國演義的稱帝小丑 【正史的袁術有多強？】 三國最被低估的巨頭 為什麼敢稱帝？",
-  "current_url": "https://www.youtube.com/watch?v=xDuOe4Bj2t8",
+  "queue_index": 15,
+  "updated_at": 1794608008,
+  "updated_at_readable": "2026-11-13 22:13:28",
+  "current_video_id": "EIai6_i8O20",
+  "current_title": "比西藏、新疆、蒙古近 【韓國為啥不是中國的？】文化最像 卻沒被併吞？",
+  "current_url": "https://www.youtube.com/watch?v=EIai6_i8O20",
   "current_tab": "videos"
 }
