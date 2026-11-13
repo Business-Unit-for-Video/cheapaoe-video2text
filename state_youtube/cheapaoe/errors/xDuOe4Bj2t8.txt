@@ -1,0 +1,6 @@
+video_id: xDuOe4Bj2t8
+title: 三國演義的稱帝小丑 【正史的袁術有多強？】 三國最被低估的巨頭 為什麼敢稱帝？
+url: https://www.youtube.com/watch?v=xDuOe4Bj2t8
+tab: videos
+time: 2026-11-13 16:44:34
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/xDuOe4Bj2t8.%(ext)s', 'https://www.youtube.com/watch?v=xDuOe4Bj2t8'])

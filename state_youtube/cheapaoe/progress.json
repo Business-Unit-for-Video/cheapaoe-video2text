@@ -1,15 +1,15 @@
 {
   "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/p0xfuEAo4ME.%(ext)s', 'https://www.youtube.com/watch?v=p0xfuEAo4ME'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/xDuOe4Bj2t8.%(ext)s', 'https://www.youtube.com/watch?v=xDuOe4Bj2t8'])",
   "destination": "cheapaoe",
   "channel_url": "https://www.youtube.com/@cheapaoe",
   "include_members": false,
   "queue_total": 1660,
-  "queue_index": 13,
-  "updated_at": 1794554328,
-  "updated_at_readable": "2026-11-13 07:18:48",
-  "current_video_id": "p0xfuEAo4ME",
-  "current_title": "性交易合法【為什麼台灣政府不敢設性專區】又不敢直接禁止？ | 假掰政治? 偽善? 女權?",
-  "current_url": "https://www.youtube.com/watch?v=p0xfuEAo4ME",
+  "queue_index": 14,
+  "updated_at": 1794588274,
+  "updated_at_readable": "2026-11-13 16:44:34",
+  "current_video_id": "xDuOe4Bj2t8",
+  "current_title": "三國演義的稱帝小丑 【正史的袁術有多強？】 三國最被低估的巨頭 為什麼敢稱帝？",
+  "current_url": "https://www.youtube.com/watch?v=xDuOe4Bj2t8",
   "current_tab": "videos"
 }
