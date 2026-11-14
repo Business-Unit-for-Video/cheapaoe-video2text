@@ -1,15 +1,15 @@
 {
   "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/2BAT5E7KVYU.%(ext)s', 'https://www.youtube.com/watch?v=2BAT5E7KVYU'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/vw_xXhJSjQI.%(ext)s', 'https://www.youtube.com/watch?v=vw_xXhJSjQI'])",
   "destination": "cheapaoe",
   "channel_url": "https://www.youtube.com/@cheapaoe",
   "include_members": false,
-  "queue_total": 1660,
-  "queue_index": 16,
-  "updated_at": 1794639688,
-  "updated_at_readable": "2026-11-14 07:01:28",
-  "current_video_id": "2BAT5E7KVYU",
-  "current_title": "砸了上千億 為什麼越踢越爛【中國足球崩潰的真正原因】14億人 找不到11個會踢球的？",
-  "current_url": "https://www.youtube.com/watch?v=2BAT5E7KVYU",
+  "queue_total": 1661,
+  "queue_index": 1,
+  "updated_at": 1794669707,
+  "updated_at_readable": "2026-11-14 15:21:47",
+  "current_video_id": "vw_xXhJSjQI",
+  "current_title": "歷史上真實的琴酒【蔣介石身邊到底有多少臥底？】國軍當年被滲透的有多慘？",
+  "current_url": "https://www.youtube.com/watch?v=vw_xXhJSjQI",
   "current_tab": "videos"
 }

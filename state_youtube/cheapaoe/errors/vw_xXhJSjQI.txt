@@ -1,0 +1,6 @@
+video_id: vw_xXhJSjQI
+title: 歷史上真實的琴酒【蔣介石身邊到底有多少臥底？】國軍當年被滲透的有多慘？
+url: https://www.youtube.com/watch?v=vw_xXhJSjQI
+tab: videos
+time: 2026-11-14 15:21:47
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/vw_xXhJSjQI.%(ext)s', 'https://www.youtube.com/watch?v=vw_xXhJSjQI'])
