@@ -1,0 +1,6 @@
+video_id: 2BAT5E7KVYU
+title: 砸了上千億 為什麼越踢越爛【中國足球崩潰的真正原因】14億人 找不到11個會踢球的？
+url: https://www.youtube.com/watch?v=2BAT5E7KVYU
+tab: videos
+time: 2026-11-14 07:01:28
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/2BAT5E7KVYU.%(ext)s', 'https://www.youtube.com/watch?v=2BAT5E7KVYU'])
