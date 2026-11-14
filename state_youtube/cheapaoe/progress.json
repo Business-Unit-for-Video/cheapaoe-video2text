@@ -1,15 +1,15 @@
 {
   "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/vw_xXhJSjQI.%(ext)s', 'https://www.youtube.com/watch?v=vw_xXhJSjQI'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/aDZErmmLMOM.%(ext)s', 'https://www.youtube.com/watch?v=aDZErmmLMOM'])",
   "destination": "cheapaoe",
   "channel_url": "https://www.youtube.com/@cheapaoe",
   "include_members": false,
   "queue_total": 1661,
-  "queue_index": 1,
-  "updated_at": 1794669707,
-  "updated_at_readable": "2026-11-14 15:21:47",
-  "current_video_id": "vw_xXhJSjQI",
-  "current_title": "歷史上真實的琴酒【蔣介石身邊到底有多少臥底？】國軍當年被滲透的有多慘？",
-  "current_url": "https://www.youtube.com/watch?v=vw_xXhJSjQI",
+  "queue_index": 18,
+  "updated_at": 1794689841,
+  "updated_at_readable": "2026-11-14 20:57:21",
+  "current_video_id": "aDZErmmLMOM",
+  "current_title": "穿越就能當皇帝、開後宮？ 【台大化工碩士穿越回三國】真實的結果是？",
+  "current_url": "https://www.youtube.com/watch?v=aDZErmmLMOM",
   "current_tab": "videos"
 }

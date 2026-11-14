@@ -1,0 +1,6 @@
+video_id: aDZErmmLMOM
+title: 穿越就能當皇帝、開後宮？ 【台大化工碩士穿越回三國】真實的結果是？
+url: https://www.youtube.com/watch?v=aDZErmmLMOM
+tab: videos
+time: 2026-11-14 20:57:21
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/aDZErmmLMOM.%(ext)s', 'https://www.youtube.com/watch?v=aDZErmmLMOM'])
