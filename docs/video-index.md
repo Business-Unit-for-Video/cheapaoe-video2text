@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@cheapaoe)。
 
-共 1661 条：已转写 0，待转写 1641，失败待处理 20，文件不完整 0。
+共 1661 条：已转写 0，待转写 1640，失败待处理 21，文件不完整 0。
 
 标题和播放列表分类取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -28,7 +28,7 @@
 | [穿越就能當皇帝、開後宮？ 【台大化工碩士穿越回三國】真實的結果是？](https://www.youtube.com/watch?v=aDZErmmLMOM) | 未分类 | 15:33 | 失败待处理 | — | — |
 | [逃離北韓到底有多難？跨越半個亞洲的極限逃亡【脫北者的歷史】](https://www.youtube.com/watch?v=NYJdfaOq5nA) | 未分类 | 21:05 | 失败待处理 | — | — |
 | [歷史真相or文字遊戲？【屈原是楚國人還是中國人？】屈原真的是楚獨分子嗎？](https://www.youtube.com/watch?v=z-d4JTOrWAU) | 未分类 | 16:18 | 失败待处理 | — | — |
-| [澳洲到底有多荒唐？阿公是罪犯 戰爭輸給鳥【課本沒說的澳洲史】](https://www.youtube.com/watch?v=wZF3hY6nIuI) | 未分类 | 14:23 | 待转写 | — | — |
+| [澳洲到底有多荒唐？阿公是罪犯 戰爭輸給鳥【課本沒說的澳洲史】](https://www.youtube.com/watch?v=wZF3hY6nIuI) | 未分类 | 14:23 | 失败待处理 | — | — |
 | [全球女性最危險的國家【印度為何變成硬督大國】印度的硬督文化怎麼來的？](https://www.youtube.com/watch?v=qq0hkzBt8r0) | 未分类 | 15:01 | 待转写 | — | — |
 | [騙子與他們的產地：【台灣詐騙帝國發展史】詐騙產業的祖師爺 為什麼台灣人這麼會騙？](https://www.youtube.com/watch?v=W-ZX74cPrjo) | 未分类 | 17:45 | 待转写 | — | — |
 | [美國為何打不贏越戰？越南無法戰勝的真正原因 【越戰的歷史】](https://www.youtube.com/watch?v=m6FQYqLAMMA) | 未分类 | 13:06 | 待转写 | — | — |
