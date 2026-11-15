@@ -1,0 +1,6 @@
+video_id: NYJdfaOq5nA
+title: 逃離北韓到底有多難？跨越半個亞洲的極限逃亡【脫北者的歷史】
+url: https://www.youtube.com/watch?v=NYJdfaOq5nA
+tab: videos
+time: 2026-11-15 07:12:39
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/NYJdfaOq5nA.%(ext)s', 'https://www.youtube.com/watch?v=NYJdfaOq5nA'])

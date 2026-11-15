@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@cheapaoe)。
 
-共 1661 条：已转写 0，待转写 1643，失败待处理 18，文件不完整 0。
+共 1661 条：已转写 0，待转写 1642，失败待处理 19，文件不完整 0。
 
 标题和播放列表分类取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -26,7 +26,7 @@
 | [比西藏、新疆、蒙古近 【韓國為啥不是中國的？】文化最像 卻沒被併吞？](https://www.youtube.com/watch?v=EIai6_i8O20) | 未分类 | 17:20 | 失败待处理 | — | — |
 | [砸了上千億 為什麼越踢越爛【中國足球崩潰的真正原因】14億人 找不到11個會踢球的？](https://www.youtube.com/watch?v=2BAT5E7KVYU) | 未分类 | 15:19 | 失败待处理 | — | — |
 | [穿越就能當皇帝、開後宮？ 【台大化工碩士穿越回三國】真實的結果是？](https://www.youtube.com/watch?v=aDZErmmLMOM) | 未分类 | 15:33 | 失败待处理 | — | — |
-| [逃離北韓到底有多難？跨越半個亞洲的極限逃亡【脫北者的歷史】](https://www.youtube.com/watch?v=NYJdfaOq5nA) | 未分类 | 21:05 | 待转写 | — | — |
+| [逃離北韓到底有多難？跨越半個亞洲的極限逃亡【脫北者的歷史】](https://www.youtube.com/watch?v=NYJdfaOq5nA) | 未分类 | 21:05 | 失败待处理 | — | — |
 | [歷史真相or文字遊戲？【屈原是楚國人還是中國人？】屈原真的是楚獨分子嗎？](https://www.youtube.com/watch?v=z-d4JTOrWAU) | 未分类 | 16:18 | 待转写 | — | — |
 | [澳洲到底有多荒唐？阿公是罪犯 戰爭輸給鳥【課本沒說的澳洲史】](https://www.youtube.com/watch?v=wZF3hY6nIuI) | 未分类 | 14:23 | 待转写 | — | — |
 | [全球女性最危險的國家【印度為何變成硬督大國】印度的硬督文化怎麼來的？](https://www.youtube.com/watch?v=qq0hkzBt8r0) | 未分类 | 15:01 | 待转写 | — | — |
