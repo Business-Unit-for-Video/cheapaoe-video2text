@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@cheapaoe)。
 
-共 1661 条：已转写 0，待转写 1639，失败待处理 22，文件不完整 0。
+共 1661 条：已转写 0，待转写 1638，失败待处理 23，文件不完整 0。
 
 标题和播放列表分类取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -30,7 +30,7 @@
 | [歷史真相or文字遊戲？【屈原是楚國人還是中國人？】屈原真的是楚獨分子嗎？](https://www.youtube.com/watch?v=z-d4JTOrWAU) | 未分类 | 16:18 | 失败待处理 | — | — |
 | [澳洲到底有多荒唐？阿公是罪犯 戰爭輸給鳥【課本沒說的澳洲史】](https://www.youtube.com/watch?v=wZF3hY6nIuI) | 未分类 | 14:23 | 失败待处理 | — | — |
 | [全球女性最危險的國家【印度為何變成硬督大國】印度的硬督文化怎麼來的？](https://www.youtube.com/watch?v=qq0hkzBt8r0) | 未分类 | 15:01 | 失败待处理 | — | — |
-| [騙子與他們的產地：【台灣詐騙帝國發展史】詐騙產業的祖師爺 為什麼台灣人這麼會騙？](https://www.youtube.com/watch?v=W-ZX74cPrjo) | 未分类 | 17:45 | 待转写 | — | — |
+| [騙子與他們的產地：【台灣詐騙帝國發展史】詐騙產業的祖師爺 為什麼台灣人這麼會騙？](https://www.youtube.com/watch?v=W-ZX74cPrjo) | 未分类 | 17:45 | 失败待处理 | — | — |
 | [美國為何打不贏越戰？越南無法戰勝的真正原因 【越戰的歷史】](https://www.youtube.com/watch?v=m6FQYqLAMMA) | 未分类 | 13:06 | 待转写 | — | — |
 | [曾經的親兄弟  南北韓是怎麼分裂的？ 【韓戰的歷史】](https://www.youtube.com/watch?v=jQbhH-hg6zI) | 未分类 | 16:33 | 待转写 | — | — |
 | [中國養出的巨獸【緬甸為何成為詐騙帝國】20年無人敢動 緬北四大家族 為何一夜覆滅](https://www.youtube.com/watch?v=2SrzLYd6E-E) | 未分类 | 16:29 | 待转写 | — | — |
