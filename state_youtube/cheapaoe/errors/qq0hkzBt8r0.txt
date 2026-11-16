@@ -1,0 +1,6 @@
+video_id: qq0hkzBt8r0
+title: 全球女性最危險的國家【印度為何變成硬督大國】印度的硬督文化怎麼來的？
+url: https://www.youtube.com/watch?v=qq0hkzBt8r0
+tab: videos
+time: 2026-11-16 07:17:14
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/qq0hkzBt8r0.%(ext)s', 'https://www.youtube.com/watch?v=qq0hkzBt8r0'])
