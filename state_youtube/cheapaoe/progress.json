@@ -1,15 +1,15 @@
 {
   "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/W-ZX74cPrjo.%(ext)s', 'https://www.youtube.com/watch?v=W-ZX74cPrjo'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/m6FQYqLAMMA.%(ext)s', 'https://www.youtube.com/watch?v=m6FQYqLAMMA'])",
   "destination": "cheapaoe",
   "channel_url": "https://www.youtube.com/@cheapaoe",
   "include_members": false,
   "queue_total": 1661,
-  "queue_index": 23,
-  "updated_at": 1794855337,
-  "updated_at_readable": "2026-11-16 18:55:37",
-  "current_video_id": "W-ZX74cPrjo",
-  "current_title": "騙子與他們的產地：【台灣詐騙帝國發展史】詐騙產業的祖師爺 為什麼台灣人這麼會騙？",
-  "current_url": "https://www.youtube.com/watch?v=W-ZX74cPrjo",
+  "queue_index": 24,
+  "updated_at": 1794904236,
+  "updated_at_readable": "2026-11-17 08:30:36",
+  "current_video_id": "m6FQYqLAMMA",
+  "current_title": "美國為何打不贏越戰？越南無法戰勝的真正原因 【越戰的歷史】",
+  "current_url": "https://www.youtube.com/watch?v=m6FQYqLAMMA",
   "current_tab": "videos"
 }
