@@ -1,15 +1,15 @@
 {
   "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/m6FQYqLAMMA.%(ext)s', 'https://www.youtube.com/watch?v=m6FQYqLAMMA'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/jQbhH-hg6zI.%(ext)s', 'https://www.youtube.com/watch?v=jQbhH-hg6zI'])",
   "destination": "cheapaoe",
   "channel_url": "https://www.youtube.com/@cheapaoe",
   "include_members": false,
   "queue_total": 1661,
-  "queue_index": 24,
-  "updated_at": 1794904236,
-  "updated_at_readable": "2026-11-17 08:30:36",
-  "current_video_id": "m6FQYqLAMMA",
-  "current_title": "美國為何打不贏越戰？越南無法戰勝的真正原因 【越戰的歷史】",
-  "current_url": "https://www.youtube.com/watch?v=m6FQYqLAMMA",
+  "queue_index": 25,
+  "updated_at": 1794938068,
+  "updated_at_readable": "2026-11-17 17:54:28",
+  "current_video_id": "jQbhH-hg6zI",
+  "current_title": "曾經的親兄弟  南北韓是怎麼分裂的？ 【韓戰的歷史】",
+  "current_url": "https://www.youtube.com/watch?v=jQbhH-hg6zI",
   "current_tab": "videos"
 }

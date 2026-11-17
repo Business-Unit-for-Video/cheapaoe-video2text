@@ -1,0 +1,6 @@
+video_id: jQbhH-hg6zI
+title: 曾經的親兄弟  南北韓是怎麼分裂的？ 【韓戰的歷史】
+url: https://www.youtube.com/watch?v=jQbhH-hg6zI
+tab: videos
+time: 2026-11-17 17:54:28
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/jQbhH-hg6zI.%(ext)s', 'https://www.youtube.com/watch?v=jQbhH-hg6zI'])
