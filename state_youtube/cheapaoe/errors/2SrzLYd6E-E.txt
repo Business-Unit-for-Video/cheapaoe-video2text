@@ -1,0 +1,6 @@
+video_id: 2SrzLYd6E-E
+title: 中國養出的巨獸【緬甸為何成為詐騙帝國】20年無人敢動 緬北四大家族 為何一夜覆滅
+url: https://www.youtube.com/watch?v=2SrzLYd6E-E
+tab: videos
+time: 2026-11-18 07:56:56
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/2SrzLYd6E-E.%(ext)s', 'https://www.youtube.com/watch?v=2SrzLYd6E-E'])
