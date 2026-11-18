@@ -1,0 +1,6 @@
+video_id: 9_pp8p-Jy9M
+title: 佛教、伊斯蘭教也打不贏！【印度種姓制度的起源】離譜制度 為何撐了3000年? 為何底層從不反抗？
+url: https://www.youtube.com/watch?v=9_pp8p-Jy9M
+tab: videos
+time: 2026-11-18 17:33:53
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/9_pp8p-Jy9M.%(ext)s', 'https://www.youtube.com/watch?v=9_pp8p-Jy9M'])
