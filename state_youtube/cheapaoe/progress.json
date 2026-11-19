@@ -1,15 +1,15 @@
 {
   "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/9_pp8p-Jy9M.%(ext)s', 'https://www.youtube.com/watch?v=9_pp8p-Jy9M'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/jg5Z0WOgfAA.%(ext)s', 'https://www.youtube.com/watch?v=jg5Z0WOgfAA'])",
   "destination": "cheapaoe",
   "channel_url": "https://www.youtube.com/@cheapaoe",
   "include_members": false,
   "queue_total": 1661,
-  "queue_index": 27,
-  "updated_at": 1795023233,
-  "updated_at_readable": "2026-11-18 17:33:53",
-  "current_video_id": "9_pp8p-Jy9M",
-  "current_title": "佛教、伊斯蘭教也打不贏！【印度種姓制度的起源】離譜制度 為何撐了3000年? 為何底層從不反抗？",
-  "current_url": "https://www.youtube.com/watch?v=9_pp8p-Jy9M",
+  "queue_index": 28,
+  "updated_at": 1795075550,
+  "updated_at_readable": "2026-11-19 08:05:50",
+  "current_video_id": "jg5Z0WOgfAA",
+  "current_title": "負債1000億 六次破產 六次滿血復活 【川普是當選總統的？】破產王的崛起",
+  "current_url": "https://www.youtube.com/watch?v=jg5Z0WOgfAA",
   "current_tab": "videos"
 }

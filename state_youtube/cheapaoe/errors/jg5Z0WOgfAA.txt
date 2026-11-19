@@ -1,0 +1,6 @@
+video_id: jg5Z0WOgfAA
+title: 負債1000億 六次破產 六次滿血復活 【川普是當選總統的？】破產王的崛起
+url: https://www.youtube.com/watch?v=jg5Z0WOgfAA
+tab: videos
+time: 2026-11-19 08:05:50
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/jg5Z0WOgfAA.%(ext)s', 'https://www.youtube.com/watch?v=jg5Z0WOgfAA'])
