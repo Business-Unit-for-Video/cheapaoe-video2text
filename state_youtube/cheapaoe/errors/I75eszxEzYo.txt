@@ -1,0 +1,6 @@
+video_id: I75eszxEzYo
+title: 專治看不懂！地圖全解析 【五代十國】一次講清楚
+url: https://www.youtube.com/watch?v=I75eszxEzYo
+tab: videos
+time: 2026-11-20 17:18:12
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/I75eszxEzYo.%(ext)s', 'https://www.youtube.com/watch?v=I75eszxEzYo'])

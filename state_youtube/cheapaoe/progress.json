@@ -1,15 +1,15 @@
 {
   "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/2S-O2p9a00U.%(ext)s', 'https://www.youtube.com/watch?v=2S-O2p9a00U'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/I75eszxEzYo.%(ext)s', 'https://www.youtube.com/watch?v=I75eszxEzYo'])",
   "destination": "cheapaoe",
   "channel_url": "https://www.youtube.com/@cheapaoe",
   "include_members": false,
   "queue_total": 1662,
-  "queue_index": 30,
-  "updated_at": 1795160754,
-  "updated_at_readable": "2026-11-20 07:45:54",
-  "current_video_id": "2S-O2p9a00U",
-  "current_title": "超有錢卻撐不起一個商圈？【天母沒落的真相】天母 30 年興衰史",
-  "current_url": "https://www.youtube.com/watch?v=2S-O2p9a00U",
+  "queue_index": 31,
+  "updated_at": 1795195092,
+  "updated_at_readable": "2026-11-20 17:18:12",
+  "current_video_id": "I75eszxEzYo",
+  "current_title": "專治看不懂！地圖全解析 【五代十國】一次講清楚",
+  "current_url": "https://www.youtube.com/watch?v=I75eszxEzYo",
   "current_tab": "videos"
 }
