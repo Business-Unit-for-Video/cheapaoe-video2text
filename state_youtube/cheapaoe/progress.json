@@ -1,15 +1,15 @@
 {
   "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/7xsxrIoamJI.%(ext)s', 'https://www.youtube.com/watch?v=7xsxrIoamJI'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/b4R5NiS7Q2Q.%(ext)s', 'https://www.youtube.com/watch?v=b4R5NiS7Q2Q'])",
   "destination": "cheapaoe",
   "channel_url": "https://www.youtube.com/@cheapaoe",
   "include_members": false,
   "queue_total": 1662,
-  "queue_index": 32,
-  "updated_at": 1795247000,
-  "updated_at_readable": "2026-11-21 07:43:20",
-  "current_video_id": "7xsxrIoamJI",
-  "current_title": "從模範小弟到反美大將【美國、古巴 為何反目成仇？】川普為何要打古巴？",
-  "current_url": "https://www.youtube.com/watch?v=7xsxrIoamJI",
+  "queue_index": 33,
+  "updated_at": 1795278237,
+  "updated_at_readable": "2026-11-21 16:23:57",
+  "current_video_id": "b4R5NiS7Q2Q",
+  "current_title": "搶 950 美元不罰？【美國為何會通過「零元購」】 這麼白癡的法律？ 「零元購背後的真相」",
+  "current_url": "https://www.youtube.com/watch?v=b4R5NiS7Q2Q",
   "current_tab": "videos"
 }

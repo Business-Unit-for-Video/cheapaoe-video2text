@@ -1,0 +1,6 @@
+video_id: b4R5NiS7Q2Q
+title: 搶 950 美元不罰？【美國為何會通過「零元購」】 這麼白癡的法律？ 「零元購背後的真相」
+url: https://www.youtube.com/watch?v=b4R5NiS7Q2Q
+tab: videos
+time: 2026-11-21 16:23:57
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/b4R5NiS7Q2Q.%(ext)s', 'https://www.youtube.com/watch?v=b4R5NiS7Q2Q'])
