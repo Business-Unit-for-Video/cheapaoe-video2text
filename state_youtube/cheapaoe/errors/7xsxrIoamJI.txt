@@ -1,0 +1,6 @@
+video_id: 7xsxrIoamJI
+title: 從模範小弟到反美大將【美國、古巴 為何反目成仇？】川普為何要打古巴？
+url: https://www.youtube.com/watch?v=7xsxrIoamJI
+tab: videos
+time: 2026-11-21 07:43:20
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/7xsxrIoamJI.%(ext)s', 'https://www.youtube.com/watch?v=7xsxrIoamJI'])

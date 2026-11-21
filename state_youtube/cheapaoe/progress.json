@@ -1,15 +1,15 @@
 {
   "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/I75eszxEzYo.%(ext)s', 'https://www.youtube.com/watch?v=I75eszxEzYo'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/7xsxrIoamJI.%(ext)s', 'https://www.youtube.com/watch?v=7xsxrIoamJI'])",
   "destination": "cheapaoe",
   "channel_url": "https://www.youtube.com/@cheapaoe",
   "include_members": false,
   "queue_total": 1662,
-  "queue_index": 31,
-  "updated_at": 1795195092,
-  "updated_at_readable": "2026-11-20 17:18:12",
-  "current_video_id": "I75eszxEzYo",
-  "current_title": "專治看不懂！地圖全解析 【五代十國】一次講清楚",
-  "current_url": "https://www.youtube.com/watch?v=I75eszxEzYo",
+  "queue_index": 32,
+  "updated_at": 1795247000,
+  "updated_at_readable": "2026-11-21 07:43:20",
+  "current_video_id": "7xsxrIoamJI",
+  "current_title": "從模範小弟到反美大將【美國、古巴 為何反目成仇？】川普為何要打古巴？",
+  "current_url": "https://www.youtube.com/watch?v=7xsxrIoamJI",
   "current_tab": "videos"
 }
