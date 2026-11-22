@@ -1,0 +1,6 @@
+video_id: enR7zWBMBY4
+title: 懸案真相【邱高事件結案報告】台灣史上最詭譎山難 唯一合理解釋 「三雙筷子、山老鼠、魔神仔、遇襲？」
+url: https://www.youtube.com/watch?v=enR7zWBMBY4
+tab: videos
+time: 2026-11-22 22:02:36
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/enR7zWBMBY4.%(ext)s', 'https://www.youtube.com/watch?v=enR7zWBMBY4'])
