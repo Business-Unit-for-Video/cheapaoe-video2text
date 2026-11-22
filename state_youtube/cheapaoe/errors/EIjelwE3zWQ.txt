@@ -1,0 +1,6 @@
+video_id: EIjelwE3zWQ
+title: 食鹽、糧食消耗、手機..科學分析【中國真實的人口數】 根本沒有14億人？消失的五億人去哪了？
+url: https://www.youtube.com/watch?v=EIjelwE3zWQ
+tab: videos
+time: 2026-11-22 07:28:03
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/EIjelwE3zWQ.%(ext)s', 'https://www.youtube.com/watch?v=EIjelwE3zWQ'])
