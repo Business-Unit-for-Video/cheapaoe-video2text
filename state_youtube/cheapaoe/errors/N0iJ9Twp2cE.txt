@@ -1,0 +1,6 @@
+video_id: N0iJ9Twp2cE
+title: 為什麼全世界華人 只有大馬華人最愛中國？ 【中華膠是怎麼誕生的】
+url: https://www.youtube.com/watch?v=N0iJ9Twp2cE
+tab: videos
+time: 2026-11-23 20:34:01
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/N0iJ9Twp2cE.%(ext)s', 'https://www.youtube.com/watch?v=N0iJ9Twp2cE'])

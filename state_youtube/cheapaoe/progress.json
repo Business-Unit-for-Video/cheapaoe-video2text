@@ -1,15 +1,15 @@
 {
   "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/F2CtYPjiNlw.%(ext)s', 'https://www.youtube.com/watch?v=F2CtYPjiNlw'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/N0iJ9Twp2cE.%(ext)s', 'https://www.youtube.com/watch?v=N0iJ9Twp2cE'])",
   "destination": "cheapaoe",
   "channel_url": "https://www.youtube.com/@cheapaoe",
   "include_members": false,
   "queue_total": 1662,
-  "queue_index": 38,
-  "updated_at": 1795421646,
-  "updated_at_readable": "2026-11-23 08:14:06",
-  "current_video_id": "F2CtYPjiNlw",
-  "current_title": "科技業賺爆 傳產喊窮！【為何台灣傳產薪水這麼低？】低薪、工安、環境差 傳產到底怎麼了？",
-  "current_url": "https://www.youtube.com/watch?v=F2CtYPjiNlw",
+  "queue_index": 39,
+  "updated_at": 1795466041,
+  "updated_at_readable": "2026-11-23 20:34:01",
+  "current_video_id": "N0iJ9Twp2cE",
+  "current_title": "為什麼全世界華人 只有大馬華人最愛中國？ 【中華膠是怎麼誕生的】",
+  "current_url": "https://www.youtube.com/watch?v=N0iJ9Twp2cE",
   "current_tab": "videos"
 }
