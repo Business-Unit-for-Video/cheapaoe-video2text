@@ -1,15 +1,15 @@
 {
   "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/N0iJ9Twp2cE.%(ext)s', 'https://www.youtube.com/watch?v=N0iJ9Twp2cE'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/ELd7HqATlWA.%(ext)s', 'https://www.youtube.com/watch?v=ELd7HqATlWA'])",
   "destination": "cheapaoe",
   "channel_url": "https://www.youtube.com/@cheapaoe",
   "include_members": false,
   "queue_total": 1662,
-  "queue_index": 39,
-  "updated_at": 1795466041,
-  "updated_at_readable": "2026-11-23 20:34:01",
-  "current_video_id": "N0iJ9Twp2cE",
-  "current_title": "為什麼全世界華人 只有大馬華人最愛中國？ 【中華膠是怎麼誕生的】",
-  "current_url": "https://www.youtube.com/watch?v=N0iJ9Twp2cE",
+  "queue_index": 40,
+  "updated_at": 1795515969,
+  "updated_at_readable": "2026-11-24 10:26:09",
+  "current_video_id": "ELd7HqATlWA",
+  "current_title": "不惜與盟友翻臉！【川普為何對「格陵蘭」如此執著？】 這座島 為什麼讓川普瘋了-格陵蘭的歷史",
+  "current_url": "https://www.youtube.com/watch?v=ELd7HqATlWA",
   "current_tab": "videos"
 }
