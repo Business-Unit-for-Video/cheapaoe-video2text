@@ -1,15 +1,15 @@
 {
   "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/ELd7HqATlWA.%(ext)s', 'https://www.youtube.com/watch?v=ELd7HqATlWA'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/volD9IqOYb8.%(ext)s', 'https://www.youtube.com/watch?v=volD9IqOYb8'])",
   "destination": "cheapaoe",
   "channel_url": "https://www.youtube.com/@cheapaoe",
   "include_members": false,
   "queue_total": 1662,
-  "queue_index": 40,
-  "updated_at": 1795515969,
-  "updated_at_readable": "2026-11-24 10:26:09",
-  "current_video_id": "ELd7HqATlWA",
-  "current_title": "不惜與盟友翻臉！【川普為何對「格陵蘭」如此執著？】 這座島 為什麼讓川普瘋了-格陵蘭的歷史",
-  "current_url": "https://www.youtube.com/watch?v=ELd7HqATlWA",
+  "queue_index": 41,
+  "updated_at": 1795568714,
+  "updated_at_readable": "2026-11-25 01:05:14",
+  "current_video_id": "volD9IqOYb8",
+  "current_title": "史上最雷豬隊友【二戰義大利有多雷】德國真的需要他嗎？  《世紀帝國》解說  盤點義大利的貢獻",
+  "current_url": "https://www.youtube.com/watch?v=volD9IqOYb8",
   "current_tab": "videos"
 }

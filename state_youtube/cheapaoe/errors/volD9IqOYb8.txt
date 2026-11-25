@@ -1,0 +1,6 @@
+video_id: volD9IqOYb8
+title: 史上最雷豬隊友【二戰義大利有多雷】德國真的需要他嗎？  《世紀帝國》解說  盤點義大利的貢獻
+url: https://www.youtube.com/watch?v=volD9IqOYb8
+tab: videos
+time: 2026-11-25 01:05:14
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/volD9IqOYb8.%(ext)s', 'https://www.youtube.com/watch?v=volD9IqOYb8'])
