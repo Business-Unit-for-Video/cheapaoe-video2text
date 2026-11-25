@@ -3,11 +3,11 @@
   "channel_url": "https://www.youtube.com/@cheapaoe",
   "repository": "Business-Unit-for-Video/cheapaoe-video2text",
   "destination": "cheapaoe",
-  "generated_at": "2026-11-25 01:05:07",
+  "generated_at": "2026-11-25 18:51:30",
   "counts": {
     "completed": 0,
-    "pending": 1621,
-    "failed": 41,
+    "pending": 1620,
+    "failed": 42,
     "partial": 0
   },
   "items": [
@@ -595,7 +595,7 @@
       "playlist_title": null,
       "playlist_index": null,
       "availability": null,
-      "transcript_status": "pending",
+      "transcript_status": "failed",
       "plain_url": null,
       "timestamps_url": null
     },
