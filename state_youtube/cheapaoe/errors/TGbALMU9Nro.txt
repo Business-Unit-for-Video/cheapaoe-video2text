@@ -1,0 +1,6 @@
+video_id: TGbALMU9Nro
+title: 樂天集團怎麼了？從豪擲20億到便當有蛆【樂天桃猿被窮養的真相】為何富爸爸變窮酸吱
+url: https://www.youtube.com/watch?v=TGbALMU9Nro
+tab: videos
+time: 2026-11-26 09:05:41
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/TGbALMU9Nro.%(ext)s', 'https://www.youtube.com/watch?v=TGbALMU9Nro'])

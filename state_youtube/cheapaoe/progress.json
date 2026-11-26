@@ -1,15 +1,15 @@
 {
   "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/wxw1ogg-pQw.%(ext)s', 'https://www.youtube.com/watch?v=wxw1ogg-pQw'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/TGbALMU9Nro.%(ext)s', 'https://www.youtube.com/watch?v=TGbALMU9Nro'])",
   "destination": "cheapaoe",
   "channel_url": "https://www.youtube.com/@cheapaoe",
   "include_members": false,
   "queue_total": 1662,
-  "queue_index": 42,
-  "updated_at": 1795632807,
-  "updated_at_readable": "2026-11-25 18:53:27",
-  "current_video_id": "wxw1ogg-pQw",
-  "current_title": "美國遊說制度=合法貪汙？ 在台灣遊說..會被關嗎？ 為何美國沒有「圖利罪」",
-  "current_url": "https://www.youtube.com/watch?v=wxw1ogg-pQw",
+  "queue_index": 43,
+  "updated_at": 1795683941,
+  "updated_at_readable": "2026-11-26 09:05:41",
+  "current_video_id": "TGbALMU9Nro",
+  "current_title": "樂天集團怎麼了？從豪擲20億到便當有蛆【樂天桃猿被窮養的真相】為何富爸爸變窮酸吱",
+  "current_url": "https://www.youtube.com/watch?v=TGbALMU9Nro",
   "current_tab": "videos"
 }
