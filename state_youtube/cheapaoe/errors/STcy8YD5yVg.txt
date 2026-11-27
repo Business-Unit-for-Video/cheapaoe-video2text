@@ -1,0 +1,6 @@
+video_id: STcy8YD5yVg
+title: 清朝80萬大軍 4億村民主場作戰  慘輸2萬英軍 【鴉片戰爭怎麼輸的？】 世紀帝國解說
+url: https://www.youtube.com/watch?v=STcy8YD5yVg
+tab: videos
+time: 2026-11-27 00:49:54
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/STcy8YD5yVg.%(ext)s', 'https://www.youtube.com/watch?v=STcy8YD5yVg'])
