@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@cheapaoe)。
 
-共 1662 条：已转写 0，待转写 1618，失败待处理 44，文件不完整 0。
+共 1662 条：已转写 0，待转写 1617，失败待处理 45，文件不完整 0。
 
 标题和播放列表分类取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -52,7 +52,7 @@
 | [美國遊說制度=合法貪汙？ 在台灣遊說..會被關嗎？ 為何美國沒有「圖利罪」](https://www.youtube.com/watch?v=wxw1ogg-pQw) | 未分类 | 13:35 | 失败待处理 | — | — |
 | [樂天集團怎麼了？從豪擲20億到便當有蛆【樂天桃猿被窮養的真相】為何富爸爸變窮酸吱](https://www.youtube.com/watch?v=TGbALMU9Nro) | 未分类 | 12:38 | 失败待处理 | — | — |
 | [清朝80萬大軍 4億村民主場作戰  慘輸2萬英軍 【鴉片戰爭怎麼輸的？】 世紀帝國解說](https://www.youtube.com/watch?v=STcy8YD5yVg) | 未分类 | 14:40 | 失败待处理 | — | — |
-| [法國人亂畫的地圖 引發百年血戰 【泰國、柬埔寨到底有什麼仇？】](https://www.youtube.com/watch?v=7SSpeR0ed7I) | 未分类 | 17:38 | 待转写 | — | — |
+| [法國人亂畫的地圖 引發百年血戰 【泰國、柬埔寨到底有什麼仇？】](https://www.youtube.com/watch?v=7SSpeR0ed7I) | 未分类 | 17:38 | 失败待处理 | — | — |
 | [武統喊了76年【阿共為何不敢打台灣？】不想打、不敢打..還是打不贏？](https://www.youtube.com/watch?v=Rc2ZyFeL0u8) | 未分类 | 18:26 | 待转写 | — | — |
 | [古裝劇騙了你！【古人買東西真的用銀子嗎？】一兩銀子=多少錢？碎銀怎麼找零？](https://www.youtube.com/watch?v=CQzfAoKfbXQ) | 未分类 | 15:54 | 待转写 | — | — |
 | [那一年 蘇聯差點對中國丟核彈 【中蘇為啥翻臉？】盟友變敵人 中蘇交惡30年](https://www.youtube.com/watch?v=LULy6LnDD5k) | 未分类 | 13:33 | 待转写 | — | — |
