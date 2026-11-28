@@ -1,15 +1,15 @@
 {
   "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/7SSpeR0ed7I.%(ext)s', 'https://www.youtube.com/watch?v=7SSpeR0ed7I'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/cheapaoe/Rc2ZyFeL0u8.%(ext)s', 'https://www.youtube.com/watch?v=Rc2ZyFeL0u8'])",
   "destination": "cheapaoe",
   "channel_url": "https://www.youtube.com/@cheapaoe",
   "include_members": false,
   "queue_total": 1662,
-  "queue_index": 45,
-  "updated_at": 1795804093,
-  "updated_at_readable": "2026-11-27 18:28:13",
-  "current_video_id": "7SSpeR0ed7I",
-  "current_title": "法國人亂畫的地圖 引發百年血戰 【泰國、柬埔寨到底有什麼仇？】",
-  "current_url": "https://www.youtube.com/watch?v=7SSpeR0ed7I",
+  "queue_index": 46,
+  "updated_at": 1795854478,
+  "updated_at_readable": "2026-11-28 08:27:58",
+  "current_video_id": "Rc2ZyFeL0u8",
+  "current_title": "武統喊了76年【阿共為何不敢打台灣？】不想打、不敢打..還是打不贏？",
+  "current_url": "https://www.youtube.com/watch?v=Rc2ZyFeL0u8",
   "current_tab": "videos"
 }
